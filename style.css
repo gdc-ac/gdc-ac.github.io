@@ -58,6 +58,20 @@ svg {
     height: 42.5%;
 }
 
+.bi-linkedin {
+    height: 42.5%;
+}
+
+.i-btn:hover{
+    animation: btn-hover 0.3s both;
+}
+
+@keyframes btn-hover{
+    100%{
+        color: #9a4c2e;
+    }
+  }
+
 .btn {
     background-color: #9a4c2e;
     font-family: "Inter Tight", Serif;
