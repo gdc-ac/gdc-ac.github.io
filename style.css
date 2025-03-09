@@ -72,10 +72,23 @@ svg {
     }
   }
 
+.nav-pills .nav-link.active {
+    background-color: #223d3c;
+}
+
+.nav-pills .nav-link {
+    color: #223d3c;
+    font-family: "Inter Tight", Serif;
+}
+
 .btn {
     background-color: #9a4c2e;
     font-family: "Inter Tight", Serif;
     color: #f8f3f2;
+}
+
+.see-btn {
+    font-family: "Instrument Serif", Serif;
 }
 
 .btn:hover {
